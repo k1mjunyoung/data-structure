@@ -1,2 +1,2 @@
 # data-structure
-Data structure study
+Data Structure Study
