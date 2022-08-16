@@ -1,2 +1,2 @@
 # data-structure
-Data structure study record
+Data structure study
